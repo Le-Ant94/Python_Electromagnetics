@@ -10,14 +10,3 @@ a = float(tan((2*pi * l)))
 Zin = Z0*((complex(x,a))/(complex(1,x*a)))
 
 print('The complex value in polar {0} (Ohms) and rectangular {1} (Ohms)'.format(cmath.polar(Zin),Zin))
-
-
-
-
-
-
-
-
-
-
-
